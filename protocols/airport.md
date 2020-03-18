@@ -8,5 +8,5 @@ description: These protocols are to be followed when travelling through Airports
 Work in Progress, refer the below given infographic fir more information
 {% endhint %}
 
-![](../.gitbook/assets/image_from_ios.jpg)
+![](https://github.com/coronasafe/tamil/tree/ee7c785497a2e2898384a9b42ea9e0261bfdbfaf/.gitbook/assets/image_from_ios.jpg)
 
