@@ -24,9 +24,9 @@ This guide is still a Work In Progress. Until some sections are complete we will
 
 > இந்த வழிகாட்டி ஆவணம் தடுப்பு நடவடிக்கைகள், வைரஸ் திரிபு பற்றிய தகவல்கள் மற்றும் உத்தியோகபூர்வ வளங்கள் பற்றிய தகவல்களை சேகரிக்க ஒரு மையமாக கருதப்படுகிறது. இந்த அறிவுறுத்தல்கள் பல்வேறு அதிகாரப்பூர்வ மூலங்களிலிருந்து தொகுக்கப்பட்டுள்ளன.
 
-COVID-19 is a novel corona virus, which means there isn't that much amount of information and public awareness about it. Most of the information is spread across a lot of independent governmental and non-governmental websites. There is also a lot of fake news and incorrect information circulating on Social Media about COVID-19 many of them life threatening.
+COVID-19 என்பது ஒரு நாவல் கொரோனா வைரஸ் ஆகும், அதாவது இது குறித்த தகவல்களும் பொது விழிப்புணர்வும் இல்லை. பெரும்பாலான தகவல்கள் சுயாதீனமான அரசு மற்றும் அரசு சாரா வலைத்தளங்களில் பரவுகின்றன. COVID-19 பற்றி ஏராளமான போலி செய்திகள் மற்றும் தவறான தகவல்கள் சமூக ஊடகங்களில் பரவி வருகின்றன, அவற்றில் பல உயிருக்கு ஆபத்தானவை.
 
-This guide aggregates all that information into a single hub and distills into a user friendly format. This guide is also localized into many regional and national languages for a wider audience. We are always looking for contributors, you can [help out here](https://www.coronasafe.in/contribute).
+இந்த வழிகாட்டி ஆவணம் அந்த தகவல்களை ஒரே மையமாக ஒருங்கிணைத்து படிப்பவர்களுக்கு சுலபமாக இருக்கும் வகையில் அமைக்கப்பட்டுள்ளது . இந்த வழிகாட்டி பல பிராந்திய மற்றும் தேசிய மொழிகளில் பரவலான பார்வையாளர்களுக்காக மொழிபெயர்க்கப்பட்டுள்ளது. நாங்கள் எப்போதும் பங்களிப்பாளர்களைத் தேடுகிறோம், உங்களுக்கு விருப்பம் இருந்தால் நீங்களும் இங்கே உதவலாம்.
 
 ## **Contents**
 
