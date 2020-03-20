@@ -20,9 +20,9 @@ The virus has affected more than 100,000 globally and has caused more than 3000 
 This guide is still a Work In Progress. Until some sections are complete we will be providing the official links for reference. You have to follow those instructions until the guide gets updated.
 {% endhint %}
 
-## Why does this guide exist ?
+## இந்த வழிகாட்டி ஆவணத்தின் பயன் யாது ?
 
-> **This guide is intended as a hub to collect information regarding preventive measures, information about the virus strain and official resources. These instructions are compiled from a variety of official sources.**
+> இந்த வழிகாட்டி ஆவணம் தடுப்பு நடவடிக்கைகள், வைரஸ் திரிபு பற்றிய தகவல்கள் மற்றும் உத்தியோகபூர்வ வளங்கள் பற்றிய தகவல்களை சேகரிக்க ஒரு மையமாக கருதப்படுகிறது. இந்த அறிவுறுத்தல்கள் பல்வேறு அதிகாரப்பூர்வ மூலங்களிலிருந்து தொகுக்கப்பட்டுள்ளன.
 
 COVID-19 is a novel corona virus, which means there isn't that much amount of information and public awareness about it. Most of the information is spread across a lot of independent governmental and non-governmental websites. There is also a lot of fake news and incorrect information circulating on Social Media about COVID-19 many of them life threatening.
 
