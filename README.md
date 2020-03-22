@@ -14,7 +14,7 @@ description: >-
 
 Around 80% of the infected show only mild symptoms and recover with standard medical attention. Older people and those with an underlying or previous medical condition develop serious symptoms and without medical intervention can prove fatal. Around 14% of the infected become seriously ill and 5% critical as per the studies.
 
-The virus has affected more than 100,000 globally and has caused more than 3000 deaths. WHO has given the status of Very High Risk at the Global Level.
+இந்த வைரஸ்சால் உலகளவில் 1,00,000-த்திற்க்கும் மேற்ப்பட்டோர் பாதிக்கப்பட்டுள்ளனர், 3000-த்திற்க்கும் மேற்ப்பட்டோர் இறந்துள்ளனர், எனவே உலக சுகாதார நிறுவனம் உலகளாவிய அதி தீவிர அபாய நிலையை அறிவித்துள்ளது.
 
 {% hint style="danger" %}
 இந்த வழிகாட்டி ஆவணம் இன்னும் செயல்பாட்டில் உள்ளது. சில பிரிவுகள் நிறைவடையும் வரை நாங்கள் குறிப்புகளுக்கான அதிகாரப்பூர்வ இணைப்புகளை வழங்குவோம். வழிகாட்டி புதுப்பிக்கப்படும் வரை நீங்கள் அந்த வழிமுறைகளைப் பின்பற்ற வேண்டும்.
