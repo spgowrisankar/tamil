@@ -1,45 +1,45 @@
 ---
-description: Describes the necessary preventive measures to the spread of COVID-19
+விளக்கம்: COVID-19 பரவுவதற்கு தேவையான தடுப்பு நடவடிக்கைகளை விவரிக்கிறது
 ---
 
-# Precautions and Preventive Measures
+# முன்னெச்சரிக்கைகள் மற்றும் தடுப்பு நடவடிக்கைகள்
 
-Even though COVID-19 is a highly contagious disease, taking adequate precautions can help prevent you from being infected.
+COVID-19 மிகவும் தொற்றுநோயாக இருந்தாலும், போதுமான முன்னெச்சரிக்கை நடவடிக்கைகளை மேற்கொள்வது உங்களுக்கு தொற்றுநோயைத் தடுக்க உதவும்.
 
-The virus spread through small droplets from the nose or mouth of the affected person, when the person sneezes or coughs. These droplets can travel more than 1 meter from the source and might land on objects and surfaces. Other people can catch the virus by touching the surface and then touching their eyes, mouth or nose. The virus can also be caught by inhaling these droplets if the distance between the affected person is less than one meter.
+பாதிக்கப்பட்ட நபர் தும்மும்போது அல்லது இருமும்போது,பாதிக்கப்பட்ட நபரின் மூக்கு அல்லது வாயிலிருந்து சிறிய துளிகளால் வைரஸ் பரவுகிறது. இந்த நீர்த்துளிகள் மூலத்திலிருந்து 1 மீட்டருக்கு மேல் பயணிக்கக்கூடும், மேலும் அவை பொருள்கள் மற்றும் பரப்புகளில் தங்கக்கூடும் . மற்றவர்கள்  வைரஹின்   மேற்பரப்பைத் தொட்டு, பின்னர் அவர்களின் கண்கள், வாய் அல்லது மூக்கைத் தொட்டு வைரஸ்  தொற்று ஏற்படலாம். பாதிக்கப்பட்ட நபருக்கு இடையிலான தூரம் ஒரு மீட்டருக்கும் குறைவாக இருந்தால் இந்த துளிகளை உள்ளிழுப்பதன் மூலமும் வைரஸ் தொற்று ஏற்படலாம்.
 
-## Preventive Measures
+## தடுப்பு நடவடிக்கைகள்
 
-There is no data showing that the virus can be transmitted through air. Hence, follow these steps to protect yourselves and the ones around you.
+வைரஸ் காற்று வழியாக பரவுகிறது என்பதைக் காட்டும் தரவு எதுவும் இல்லை. எனவே, உங்களையும் உங்களைச் சுற்றியுள்ளவர்களையும் பாதுகாக்க இந்த படிகளைப் பின்பற்றவும்.
 
 {% hint style="danger" %}
-If you are above 60+ years of age or have any existing or past medical condition such as Heart diseases, Diabetes, Respiratory Diseases, Hypertension or any serious illness, you will have to take special precautions here.
+நீங்கள் 60 வயதுக்கு மேற்பட்டவர்கள் அல்லது இருதய நோய்கள், நீரிழிவு நோய், சுவாச நோய்கள், உயர் இரத்த அழுத்தம் அல்லது ஏதேனும் கடுமையான நோய் போன்றவற்றுடன் மேலும் தற்போதைய அல்லது கடந்தகால மருத்துவ சிகிச்சையில் இருந்தால், நீங்கள் இங்கே சிறப்பு முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்க வேண்டியிருக்கும்.
 {% endhint %}
 
-{% page-ref page="old-and-people-with-medical-issues.md" %}
+{% page-ref page="மருத்துவ பிரச்சனைகள் உடைய முதியவர்களுக்காக .md" %}
 
-### Washing your hands frequently
+### உங்கள் கைகளை அடிக்கடி கழுவ வேண்டும்
 
-Since transmission mainly occurs through your hands, you should wash them frequently and thoroughly. It is recommended to use soap and water when available, else use hand sanitizers with sufficient amount of alcohol to kill off the germs.
+வைரஸ் முக்கியமாக உங்கள் கைகள் வழியாக பரவுவதால், நீங்கள் கைகளை  அடிக்கடி மற்றும் முழுமையாக கழுவ வேண்டும். சோப்பு மற்றும் தண்ணீரை  கிடைக்கும்போது பயன்படுத்த பரிந்துரைக்கப்படுகிறது, இல்லையெனில் கிருமிகளைக் கொல்ல போதுமான அளவு ஆல்கஹால் கொண்ட கை சுத்திகரிப்பாளர்களைப் பயன்படுத்துங்கள்.
+> ** கைகளை  சோப்பு மற்றும் தண்ணீரில்  குறைந்தபட்சம் 20 விநாடிகள் கழுவ வேண்டும் அல்லது ஆல்கஹால் அடிப்படையிலான கை சுத்திகரிப்பான்களை பயன்படுத்தலாம். .**
 
-> **Wash your hands frequently with soap and water for atleast 20 seconds or an alcohol based hand sanitizer.**
+### உங்கள் கண்கள், மூக்கு மற்றும் வாய் ஆகியவற்றைத் தொடுவதைத் தவிர்க்கவும்
 
-### Avoid Touching Your Eyes, Nose and Mouth
+வைரஸ் எந்த நேரத்திலும் உங்கள் தோலுடன் தொடர்பு கொள்ளலாம், குறிப்பாக உங்கள் கைகள். அசுத்தமான தோல் உங்கள் கண்கள், மூக்கு அல்லது வாயைத் தொட்டால் வைரஸ் உங்கள் உடலுக்குள் மாற்றப்பட்டு அதன் மூலம் உங்களைப் பாதிக்கும்.
 
-The virus can come in contact with your skin at any time, particularly your hands. If the contaminated skin touched your eyes, nose or mouth the virus can be transferred into your body thereby infecting you.
+> **முதலில் கைகளை கழுவாமல் முகத்தைத் தொடாதே.**
 
-> **Don't touch your face without washing your hands first.**
+### **இடைத்தூரத்தை கடைபிடிக்கவும்**
 
-### **Maintain Distance**
+உங்கள் உள்ளூர் சமூகத்தின்  அளவைப் பொறுத்து  இருமல் அல்லது தும்மல் உள்ளவர் எவரிடமிருந்தும் குறைந்தபட்சம் 1 மீட்டர் தூரத்தை [கடைபிடித்து](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) பாதுகாப்பாக  இருக்கவும்.
+நபர் தும்மும்போது அல்லது இருமும்போது நீங்கள் அருகிலேயே இருந்தால், அச்சிறு துளிகளால் வைரஸ் உற்பத்தி செய்யப்பட்டு, அந்த நபருக்கு  நோய்த்தொற்று இருந்தால்  நீங்களும் அதை  உள்ளிழுத்து நோய்த்தொற்றுக்கு  ஆட்படலாம்.
 
-Depending on the level of outbreak in your local community it is [advised ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)to keep a safe distance of at-least 1 meter \(&gt; 3 feet\) from anyone who is coughing or sneezing. If you are in the vicinity when the person sneezes or coughs they can produce small droplets which you can inhale and become infected if the person is infected.
+### தும்மும்போது அல்லது இருமும்போது உங்கள் வாய் மற்றும் மூக்கை மூடிக்கொள்ளுங்கள் 
 
-### Cover Your Mouth and Nose while Sneezing or Coughing
-
-If you are coughing or sneezing do so while covering your face with a bent elbow or a hand kerchief. This would help prevent the spread viruses such as Flu, Cold or COVID-19.
+நீங்கள் இருமல் அல்லது தும்மினால் உங்கள் முகத்தை உங்கள் முழங்கை அல்லது கைக்குட்டையால்  மூடிக்  கொள்ளவும் . இது காய்ச்சல், குளிர் அல்லது COVID-19 போன்ற வைரஸ்கள் பரவுவதைத் தடுக்க உதவும்.
 
 {% hint style="info" %}
-If you think you have been infected, follow these specialized instructions for your safety and others.
+நீங்கள் பாதிக்கப்பட்டுள்ளதாக நீங்கள் நினைத்தால், உங்கள் பாதுகாப்பிற்காக  இந்த சிறப்பு வழிமுறைகளைப் பின்பற்றவும்.
 {% endhint %}
 
 {% page-ref page="action/i-am-infected.md" %}
