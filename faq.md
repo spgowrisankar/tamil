@@ -2,7 +2,7 @@
 description: Frequently Asked Questions about COVID-19
 ---
 
-# FAQ
+# அடிக்கடி கேட்க்கப்பட்ட கேள்விகள் 
 
 ## What is a Corona Virus?
 

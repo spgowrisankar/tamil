@@ -1,32 +1,32 @@
 # Table of contents
 
-* [Corona Safe](README.md)
-* [Precautions and Preventive Measures](precautions.md)
-* [Symptoms](symptoms.md)
-* [Old People and People with Medical Issues](old-and-people-with-medical-issues.md)
+* [கொரோனாவிடமிருந்து பாதுகாப்பு](README.md)
+* [முன்னெச்சரிக்கை மற்றும் தற்காப்பு நடவடிக்கைகள்](precautions.md)
+* [அறிகுறிகள்](symptoms.md)
+* [வயதானவர்கள் மற்றும் உடல்நலக்குறைபாடு உள்ளவர்கள்](old-and-people-with-medical-issues.md)
 * [Health Advisory Guidelines by Kerala Government](health-advisories-by-kerala-government.md)
-* [Myths and Fake News](myths-and-fake-news.md)
-* [FAQ](faq.md)
-* [Contribute](contribute.md)
+* [மூடநம்பிக்கை மற்றும் பொய்யான செய்திகள்](myths-and-fake-news.md)
+* [அடிக்கடி கேட்க்கப்பட்ட கேள்விகள்](faq.md)
+* [உதவு](contribute.md)
 
-## Actions to take when <a id="action"></a>
+## எடுக்கவேண்டிய நடவடிக்கைகள் <a id="action"></a>
 
-* [I am Infected](action/i-am-infected.md)
-* [Someone I know is Infected](action/someone-i-know-is-infected.md)
-* [Home Isolation](action/home-isolation.md)
+* [நான் பாதிக்கப்பட்டுள்ளேன்](action/i-am-infected.md)
+* [எனக்கு தெரிந்த ஒருவர் பாதிக்கப்பட்டுள்ளார்](action/someone-i-know-is-infected.md)
+* [சுய தனிமைப்படுத்தல்](action/home-isolation.md)
 
-## Contact
+## தொடர்புக்கு 
 
-* [Centers to Test for COVID-19](contact/centers-to-test-covid.md)
-* [Control Rooms in Kerala](contact/control-rooms-kerala.md)
-* [International Organizations](contact/international-organizations.md)
-* [National Level Organisations](contact/national-level-organisations.md)
-* [State and District Level Organizations](contact/state-and-district-level-organizations.md)
+* [COVID-19 பரிசோதனை மையங்கள்](contact/centers-to-test-covid.md)
+* [கேரளாவில் உள்ள கட்டுப்பாட்டு அறைகள்](contact/control-rooms-kerala.md)
+* [உலகளாவிய நிறுவனங்கள்](contact/international-organizations.md)
+* [National Level நிறுவனங்கள்](contact/national-level-organisations.md)
+* [மாநில மற்றும் மாவட்ட அளவிலான நிறுவனங்கள்](contact/state-and-district-level-organizations.md)
 
 ## Protocols To Follow At <a id="protocols"></a>
 
-* [Airport](protocols/airport.md)
-* [Gatherings, Weddings, Funerals](protocols/gatherings-weddings-funerals.md)
+* [விமான நிலையம்](protocols/airport.md)
+* [Gatherings, திருமணங்கள், Funerals](protocols/gatherings-weddings-funerals.md)
 
 ## Know COVID-19 <a id="know-covid-19-1"></a>
 
