@@ -4,7 +4,7 @@ description: >-
   (both present and past). This guide outlines extra precautions to be taken.
 ---
 
-# Old People and People with Medical Issues
+# வயதானவர்கள் மற்றும் உடல்நலக்குறைபாடு உள்ளவர்கள்
 
 People above 70 years of age and people with medical issues either currently or previously are at the most risk from COVID-19. This data shows the elderly are at a much greater risk than young people.
 

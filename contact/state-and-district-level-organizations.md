@@ -4,7 +4,7 @@ description: >-
   Crisis
 ---
 
-# State and District Level Organizations
+# மாநில மற்றும் மாவட்ட அளவிலான நிறுவனங்கள்
 
 COVID-19 is kept in check by the timely and efficient intervention from the Local and State Government Organizations.
 
