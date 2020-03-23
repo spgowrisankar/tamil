@@ -4,7 +4,7 @@ description: >-
   Rooms in each district.
 ---
 
-# Control Rooms in Kerala
+# கேரளாவில் உள்ள கட்டுப்பாட்டு அறைகள்
 
 Given below are the publicly available [contact details](http://dhs.kerala.gov.in/pdf2020/cont_09032020.pdf) of the control rooms at the forefront of containing the virus. Contact the nearest one for any assistance regarding COVID-19 assistance.
 
